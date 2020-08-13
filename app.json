@@ -1,0 +1,5 @@
+{
+    "name": "PyTorch Classifier",
+    "description": "Classifies any images",
+    "keywords": ["python","flask","pytorch"]
+}
