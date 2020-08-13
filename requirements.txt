@@ -1,2 +1,2 @@
-torchvision~=0.7.0+cpu
+-f https://download.pytorch.org/whl/torch_stable.html
 flask~=1.1.2
